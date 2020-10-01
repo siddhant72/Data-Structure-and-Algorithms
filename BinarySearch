@@ -36,7 +36,6 @@ int main(void)
 
      ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    cout.tie(NULL);
     int arr[] = { 2, 3, 4, 10, 40 }; 
     int x = 10; 
     int n = sizeof(arr) / sizeof(arr[0]); 
